@@ -58,47 +58,6 @@ Some of the areas I've worked on include:
 
 ---
 
-## 🎨 Design & UI/UX
-
-I have experience designing and improving interfaces using **Figma**, including:
-
-- User flows
-- Wireframes
-- High-fidelity UI layouts
-- Interactive prototypes
-- Mobile-first interfaces
-- UI/UX QA and iterative improvements
-
-I have also worked on the **Dulux Connect Sri Lanka** mobile application at Sandbox (Private) Limited, contributing to UI/UX quality assurance, backend design collaboration, and design-system implementation.
-
----
-
-## 💼 Experience
-
-**UI/UX Designer — Sandbox (Private) Limited**  
-*2026 – Present*
-
-- UI/UX design and improvement
-- Figma wireframing and prototyping
-- UI/UX quality assurance
-- Collaboration with developers and support teams
-- Improving user flows and design consistency
-
-**Digital Marketing, Data Entry & Customer Support Assistant — Arunalu Enterprises**  
-*January 2025 – February 2025*
-
----
-
-## 🎓 Education
-
-- Foundation Certificate in Software Engineering — Summerset Campus, 2024
-- Python Engineer - SLIPD Academy, 2025
-- English Diploma — British Way English Academy, 2025
-- Flutter Development Course — Udemy, 2025
-- Figma UI/UX Design Diploma — AMDT School of Creativity, 2026
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
