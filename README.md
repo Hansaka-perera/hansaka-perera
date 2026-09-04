@@ -131,7 +131,8 @@ I have also worked on the **Dulux Connect Sri Lanka** mobile application at Sand
 
 <div align="center">
 
-### 💙 Keep Building. Keep Learning. Keep Improving.
+###         💙 Different Doesn't Mean Weak.
+        Silent Mind. Different Path. Keep Building.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer" alt="Animated footer" />
 
