@@ -131,11 +131,10 @@ I have also worked on the **Dulux Connect Sri Lanka** mobile application at Sand
 
 <div align="center">
 
-###
+<img src="./assets/katana.gif" width="700">
 
-         💙 Different Doesn't Mean Weak.
-    Silent Mind. Different Path. Keep Building.
+<h3>💙 Different Doesn't Mean Weak.</h3>
 
-<img src="..." />
+<p><i>Silent Mind. Different Path. Keep Building.</i></p>
 
 </div>
