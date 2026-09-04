@@ -16,6 +16,7 @@ I also work with **Flutter**, **Figma**, web technologies, and local AI/LLM proj
 
 - 💻 Software Engineering & Python Development
 - 📱 Flutter Web & Mobile Development
+- 🤖 AI & Local LLM experiments with LM Studio
 - 🎨 UI/UX Design with Figma
 - 🌐 Web Development
 - 🧠 Always learning and building new projects
@@ -27,14 +28,6 @@ I also work with **Flutter**, **Figma**, web technologies, and local AI/LLM proj
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,dart,flutter,html,css,js,php,nodejs,mysql,git,github,figma,photoshop&perline=7" alt="Skills" />
 </p>
-
-### 🤖 AI & Local Development
-
-- **LM Studio**
-- Local LLM experimentation
-- AI-powered application ideas
-- Python + AI projects
-- API-based local AI integrations
 
 ---
 
