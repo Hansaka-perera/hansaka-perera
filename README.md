@@ -47,8 +47,8 @@ Some of the areas I've worked on include:
 
 - 🔐 Flutter Web Login Application
 - 📱 Flutter applications
-- 🏍️ Bike sales / inventory systems
-- 🪪 Visiting-card & QR-code systems
+- 🏍️ Vehicle Auction System SL
+- 🪪 Money Management System
 - 🎨 UI/UX projects
 - 🤖 LM Studio / local AI projects
 - 🌐 Web applications
@@ -76,7 +76,7 @@ I have also worked on the **Dulux Connect Sri Lanka** mobile application at Sand
 ## 💼 Experience
 
 **UI/UX Designer — Sandbox (Private) Limited**  
-*2025 – Present*
+*2026 – Present*
 
 - UI/UX design and improvement
 - Figma wireframing and prototyping
@@ -92,9 +92,10 @@ I have also worked on the **Dulux Connect Sri Lanka** mobile application at Sand
 ## 🎓 Education
 
 - Foundation Certificate in Software Engineering — Summerset Campus, 2024
+- Python Engineer - SLIPD Academy, 2025
 - English Diploma — British Way English Academy, 2025
 - Flutter Development Course — Udemy, 2025
-- Figma UI/UX Design Course — Udemy, 2025
+- Figma UI/UX Design Diploma — AMDT School of Creativity, 2026
 
 ---
 
