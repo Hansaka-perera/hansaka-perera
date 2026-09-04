@@ -58,18 +58,6 @@ Some of the areas I've worked on include:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=hansaka-perera&show_icons=true&hide_border=true&rank_icon=github" height="170" alt="GitHub stats" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hansaka-perera&hide_border=true" height="170" alt="GitHub streak" />
-
-</div>
-
----
-
 ## 🐍 Contribution Animation
 
 <div align="center">
