@@ -33,21 +33,6 @@ I also work with **Flutter**, **Figma**, web technologies, and local AI/LLM proj
 
 ## 📱 Projects
 
-I'm building and uploading my projects to GitHub **one project at a time**.
-
-Some of the areas I've worked on include:
-
-- 🔐 Flutter Web Login Application
-- 📱 Flutter applications
-- 🏍️ Vehicle Auction System SL
-- 🪪 Money Management System
-- 🎨 UI/UX projects
-- 🤖 LM Studio / local AI projects
-- 🌐 Web applications
-- 📊 Data and reporting tools
-
-> More projects will be added regularly. 🚀
-
 ---
 
 ## 🐍 Contribution Animation
