@@ -31,10 +31,6 @@ I also work with **Flutter**, **Figma**, web technologies, and local AI/LLM proj
 
 ---
 
-## 📱 Projects
-
----
-
 ## 🐍 Contribution Animation
 
 <div align="center">
